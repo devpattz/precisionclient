@@ -2,14 +2,14 @@
 <html>
 
 <head>
-    <title>Your HTML Page</title>
+    <title>Precision</title>
 </head>
 
 <body>
-    <h1>My HTML Page</h1>
+    <h1>Precision Client</h1>
 
     <p>This is a link to another page:</p>
-    <a href="target_page.html">Click here</a>
+    <a href="https://topvazstore.github.io/g9/precision-client/">Click here</a>
 
 </body>
 
